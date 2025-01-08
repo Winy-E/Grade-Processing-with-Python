@@ -1,7 +1,5 @@
 # Grade-Processing-with-Python
 
-# Score Calculation Module
-
 In this project, I use Python to process CSV files containing multiple grades and generate corresponding letter grades.
 
 The first two cells are the last name and the first name of the student. The rest of the data is as follows:
