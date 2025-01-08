@@ -1,6 +1,4 @@
-# Park University - CS152
-# Project 2 - SP22
-# Winy Euristil S1699150
+# Winy
 
 import os 
 
@@ -38,7 +36,7 @@ def get_prep_scores(scores, student_name):
 def get_lab_average(scores, student_name):
     """Drop the two lowest lab scores and calculate the average percentage
        of the lab scores.The percentage is rounded to the nearest tenth. Raise
-       error if a lab score is negatif, is not numeric or is higher than 30"""
+       error if a lab score is negative, is not numeric, or is higher than 30"""
         
     total = 0
     newlist = []
